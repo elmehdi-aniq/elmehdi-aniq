@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @elmehdi-aniq
+### Hi there, I'm Elmehdi ✨
+
+# I'm Developer
+
 - 👀 I’m interested in Artificial intelligence
 - 🌱 I’m currently learning machine learning
-- 📫 How to reach me:
-      aniq.elmehdi@gmail.com
-      an.elmehdi@gmail.com
-      aniq.elmehdi@outlook.com
+
+# Connect with me:
+      gmail : aniq.elmehdi@gmail.com
+      twitter : @ElmehdiAniq
+      Linkedln : @aniq-elmehdi
     
 
 <!---

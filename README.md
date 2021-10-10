@@ -16,6 +16,7 @@
 <ul>
       <li>CV : <a href="https://github.com/elmehdi-aniq/elmehdi-aniq/files/7317920/cv.pdf">PDF</a></li>
 </ul>
+<br><br>
 ## Languages and Tools:
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png"><img alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" style="max-width:100%;" width="26px" align="left"></a>
 

@@ -1,8 +1,8 @@
 ### Hi there, I'm Elmehdi ✨
 
-## I'm Developer
+## I'm Developer & Data Scientist
 
-- 👀 I’m interested in Artificial intelligence
+- 👀 I’m interested in Artificial intelligence and Data Science
 - 🌱 I’m currently learning machine learning
 <br><br>
 ## Connect with me:

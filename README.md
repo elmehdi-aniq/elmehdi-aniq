@@ -12,6 +12,10 @@
       
 <a href="https://www.linkedin.com/in/aniq-elmehdi/" rel="nofollow"><img alt="ANIQ Elmehdi | LinkedIn" src="https://user-images.githubusercontent.com/84931728/129571472-7d420fe7-598b-4fd7-88c1-240fae7c35f5.png" data-canonical-src="https://us-central1-iconscout-1539.cloudfunctions.net/iconscout-gcp-functions-production-download?name=linkedin&amp;download=1&amp;url=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-24%2F461814.png&amp;width=24&amp;height=24" style="max-width:100%;" width="22px" align="left"></a>
 <br><br>
+## CV
+<ul>
+      <li>CV : <a href="https://github.com/elmehdi-aniq/elmehdi-aniq/files/7317920/cv.pdf">PDF</a></li>
+</ul>
 ## Languages and Tools:
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png"><img alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" style="max-width:100%;" width="26px" align="left"></a>
 
